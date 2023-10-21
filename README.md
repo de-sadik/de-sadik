@@ -12,7 +12,7 @@ I'm a passionate software developer, proficient in various programming languages
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=de-sadik&show_icons=true&count_private=true)
 
 
 ## 🌍 Connect with Me
