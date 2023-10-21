@@ -14,6 +14,23 @@ I'm a passionate software developer, proficient in various programming languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=de-sadik&show_icons=true&count_private=true)
 
+## 🛠️ Languages and Tools
+
+- 👨‍💻 Programming Languages: 
+  - Python, JavaScript, TypeScript, Java
+- 🌐 Web Development Frameworks: 
+  - ReactJS, Node.js, FastAPI, Django
+- 📦 Databases: 
+  - PostgreSQL, MongoDB
+- ☁️ Cloud Services: 
+  - AWS (S3, EC2, Lambda, ECS, SQS, SNS), Azure (Basic)
+- 🐳 Container Orchestration: 
+  - Kubernetes, Docker
+- 🔄 Version Control and CI/CD: 
+  - Git, GitHub Actions/Workflows
+- 💻 Operating Systems: 
+  - Linux, Windows, MacOS
+
 
 ## 🌍 Connect with Me
 
